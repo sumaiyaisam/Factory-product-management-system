@@ -1,0 +1,9 @@
+-- CREATE TABLE app_metadata (
+--     id BIGINT NOT NULL AUTO_INCREMENT,
+--     app_name VARCHAR(100) NOT NULL,
+--     created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+--     PRIMARY KEY (id)
+-- );
+--
+-- INSERT INTO app_metadata (app_name)
+-- VALUES ('Samson CoreFlow ERP');
